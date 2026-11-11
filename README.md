@@ -70,59 +70,89 @@ My interests include:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
-<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/overview.dark.svg"
+  />
+  <img
+    src="./assets/overview.light.svg"
+    alt="GitHub Overview"
+    width="100%"
+  />
+</picture>
 
-### Overall Statistics
+### 🚀 Contribution Momentum
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cicdguy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicdguy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/momentum.dark.svg"
+  />
+  <img
+    src="./assets/momentum.light.svg"
+    alt="Contribution Momentum"
+    width="100%"
+  />
+</picture>
 
-### Contribution Streak
+### 🔥 Contributions & Streaks
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=cicdguy&theme=tokyonight&hide_border=true" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/contributions.dark.svg"
+  />
+  <img
+    src="./assets/contributions.light.svg"
+    alt="Contribution Calendar"
+    width="100%"
+  />
+</picture>
 
-### Contribution Activity
+### 💻 Language Distribution
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cicdguy&theme=tokyo-night&hide_border=true&area=true" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/languages.dark.svg"
+  />
+  <img
+    src="./assets/languages.light.svg"
+    alt="Language Statistics"
+    width="100%"
+  />
+</picture>
 
-### GitHub Trophies
+### 📈 Engineering Activity
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=cicdguy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/rhythm.dark.svg"
+  />
+  <img
+    src="./assets/rhythm.light.svg"
+    alt="Contribution Activity"
+    width="100%"
+  />
+</picture>
 
-</div>
+### 🏆 Repository Portfolio
 
----
-
-# 🏆 Contribution Visualizations
-
-<div align="center">
-
-### 3D Contribution Calendar
-
-<!-- Generated automatically by GitHub Actions -->
-<img width="95%" src="https://raw.githubusercontent.com/cicdguy/cicdguy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-
-### Contribution Snake 🐍
-
-<!-- Generated automatically by GitHub Actions -->
-<img width="95%" src="https://raw.githubusercontent.com/cicdguy/cicdguy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 📈 More GitHub Insights
-
-<div align="center">
-
-![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cicdguy&theme=tokyonight)
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cicdguy&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cicdguy&theme=tokyonight&utcOffset=-6" />
-
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/repositories.dark.svg"
+  />
+  <img
+    src="./assets/repositories.light.svg"
+    alt="Repository Rankings"
+    width="100%"
+  />
+</picture>
 
 ---
 
