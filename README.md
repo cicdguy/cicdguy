@@ -4,9 +4,6 @@
 
 Welcome to my profile!
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
-
-
 #### Current stats
 
 ![Dinakar's Github stats](https://github-readme-stats.vercel.app/api?username=cicdguy)
