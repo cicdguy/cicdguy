@@ -3,7 +3,7 @@ markdown
 
 # Hi, I'm Dinakar 👋
 
-### Staff Platform Engineer | SRE | DevOps | Cloud & AI
+### Platform | DevEx | SRE | DevOps | Cloud | AI
 
 **Building reliable platforms. Automating everything. Empowering developers.**
 
