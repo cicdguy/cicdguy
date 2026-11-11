@@ -1,0 +1,34 @@
+
+name: Generate GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: cicdguy
+          cards: overview,momentum,contributions,lifetime,composition,rhythm,cadence,repositories,portfolio,languages
+          output-dir: assets
+          themes: light,dark
+          palette: purple
+          commit: true
